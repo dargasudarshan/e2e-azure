@@ -18,7 +18,7 @@ fi
 ################
 ## FUNCTIONS  ##
 ################
-
+#Test
 error_handler()
 {
 rc=$1; message=$(echo $2 | cut -d "=" -f 2); act=$(echo $3 | cut -d "=" -f 2)
